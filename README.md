@@ -63,8 +63,7 @@ _Showcase screenshots of your portfolio (e.g., homepage, project section, about 
 
 ## 📬 Contact
 Feel free to reach out to me:
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: mohamedsilar26@gmail.com
 - **GitHub**: [https://github.com/MohamedSilar](https://github.com/MohamedSilar)
 
 ---
