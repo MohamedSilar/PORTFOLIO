@@ -1,4 +1,3 @@
-```markdown
 # 🌟 Mohamed Silar's Portfolio 🌟
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and achievements in web development and other areas of expertise. 🚀
